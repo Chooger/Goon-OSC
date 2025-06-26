@@ -1,0 +1,5 @@
+You will need these installed on your Linux machine to run this: 
+
+liblo.so
+libstdc
+libpthread
